@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mp3_Player" GeneratedClassName="ayarlar">
+  <Profiles />
+  <Settings>
+    <Setting Name="timer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI, 9.75pt</Value>
+    </Setting>
+    <Setting Name="text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eko Player</Value>
+    </Setting>
+    <Setting Name="backcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Indigo</Value>
+    </Setting>
+    <Setting Name="button" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MediumPurple</Value>
+    </Setting>
+    <Setting Name="listbox" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkBlue</Value>
+    </Setting>
+    <Setting Name="kayanyazi" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Lucida Sans Unicode, 11.25pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

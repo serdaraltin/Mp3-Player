@@ -1,0 +1,16 @@
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3 Player.csproj.ResolveComReference.cache
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3_Player.Properties.Resources.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3 Player.csproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Release\Interop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3_Player.Ayarlar.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3_Player.manin.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3_Player.Youtube_Mp3_İndirici.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Mp3_Player.Hakkında.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Release\Eko PLayer.exe.config
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Release\Eko PLayer.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Release\Eko PLayer.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Eko PLayer.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Release\Eko PLayer.pdb

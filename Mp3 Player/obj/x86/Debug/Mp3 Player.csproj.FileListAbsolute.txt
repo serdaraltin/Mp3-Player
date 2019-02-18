@@ -1,0 +1,29 @@
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\bin\Debug\Mp3 Player.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\bin\Debug\Mp3 Player.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\obj\x86\Debug\Mp3_Player.Form1.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\obj\x86\Debug\Mp3_Player.Properties.Resources.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\obj\x86\Debug\Mp3 Player.csproj.GenerateResource.Cache
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\obj\x86\Debug\Mp3 Player.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Mp3 Player\obj\x86\Debug\Mp3 Player.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.Properties.Resources.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.csproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.csproj.ResolveComReference.cache
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.Ayarlar.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.manin.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.Youtube_Mp3_İndirici.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.Hakkında.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Eko PLayer.exe.config
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Eko PLayer.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Eko PLayer.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Eko PLayer.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Eko PLayer.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Eko PLayer.exe.config
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.csproj.ResolveComReference.cache
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Eko PLayer.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Eko PLayer.pdb
